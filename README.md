@@ -35,7 +35,16 @@ Skills:  HTML / CSS/ JS / REACT / JS /VUE
 
 <h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 <br>
-![](![](6709680.jpg)   )
+<img align="right" alt="coding" width="400" src="![](![](6709680.jpg)   )
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+">
+<br>
 
 
 
