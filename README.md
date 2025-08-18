@@ -116,14 +116,7 @@ I’m a Front End Web developer passionate about making error-free websites with
 <br> 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anik imran &show_icons=true&theme=radical" alt="Nayeem0011 GitHub Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anik Imran&theme=github_dark"/>
-</p>
-<br>
 
 <!-- Animated Gif -->
 <p align="center">
