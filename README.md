@@ -84,13 +84,13 @@ Skills:  HTML / CSS/ JS / REACT / JS /VUE
 
 ## ☕ Connect with me!
 <p align="center">
-  <a href="https://x.com/sknayeemislam3" target="_blank">
+  <a href="" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sknayeemislam3" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/sk.nayeem.922535/" target="_blank">
+  <a href="https://www.facebook.com/hdhhbfhrirbtiirdbdidjbrbfh/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sk.nayeem.922535" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/sknayeem6906/" target="_blank">
+  <a href="" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sknayeem6906" height="30" width="40" />
   </a>
 </p>
