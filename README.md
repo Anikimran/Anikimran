@@ -1,4 +1,4 @@
-### Hi there 👋, Hay👋, Iam Anik Imran
+ Hay👋, Iam Anik Imran
 #### Frontend Developer
 ![MERN Stack & Blockchain Developer](9700_4_04.jpg)
 
@@ -35,7 +35,8 @@ Skills:  HTML / CSS/ JS / REACT / JS /VUE
 
 <h3 align="center">A passionate frontend developer from Bangladesh!</h3>
 <br>
-<img align="right" alt="coding" width="400" src="![](![](6709680.jpg)   )
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<br>
 
 
 - 🔭 I’m currently working on this page. 
